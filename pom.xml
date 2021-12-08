@@ -3,7 +3,7 @@
 
     <groupId>org.vaadin.addons.sebastian</groupId>
     <artifactId>recordgrid</artifactId>
-    <version>1.0.0.alpha1</version>
+    <version>1.0.0.alpha2</version>
     <name>RecordGrid</name>
     <description>Integration of paper-slider for Vaadin platform</description>
 
